@@ -2,6 +2,6 @@
 
 It's Roqia :)
 
-I'm a Cybersecurity graduate interested in open source and software development.
+I'm a Cybersecurity graduate interested in contributing to open source and topics related to it.
 
 That's all for now... :)
